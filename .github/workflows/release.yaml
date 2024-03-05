@@ -22,4 +22,4 @@ jobs:
           echo "release created: ${{ steps.release.outputs.release_created}}"
           echo "release created w/ false set: ${{ steps.release.outputs.release_created && steps.release.outputs.release_created || false }}"
           echo "pr created: ${{ steps.release.outputs.pr }}"
-          echo "pr created: set: ${{ steps.release.outputs.pr != "" }}"
+          echo "pr created: set: ${{ steps.release.outputs.pr != '' }}"
