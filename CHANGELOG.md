@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/wparr-circle/minimal-release/compare/v1.2.1...v1.2.2) (2024-03-05)
+
+
+### Bug Fixes
+
+* user facing commit ([8144f18](https://github.com/wparr-circle/minimal-release/commit/8144f18ef8b5da9a7969fe4d9adcca76f7de339d))
+
 ## [1.2.1](https://github.com/wparr-circle/minimal-release/compare/v1.2.0...v1.2.1) (2024-03-05)
 
 
