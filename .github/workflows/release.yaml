@@ -19,5 +19,5 @@ jobs:
           release-type: simple
       - name: Is Release Created
         run: |
-          echo "release_created: ${{ steps.release.outputs.release_created }}"
-          echo "releases_created: $${{ steps.release.outputs.releases_created }}"
+          echo "release created: ${{ steps.release.outputs.release_created && steps.release.outputs.release_created || false }}"
+          echo "pr created: ${{ steps.release.outputs.pr_created && steps.release.outputs.pr_created || false }}
