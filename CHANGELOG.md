@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/wparr-circle/minimal-release/compare/v1.1.0...v1.2.0) (2024-03-05)
+
+
+### Features
+
+* delete branch, lower to v3 ([1f60c52](https://github.com/wparr-circle/minimal-release/commit/1f60c52c9bf9cb6265ad3cfeecd9316c7b545e75))
+
 ## [1.1.0](https://github.com/wparr-circle/minimal-release/compare/v1.0.0...v1.1.0) (2024-03-05)
 
 
